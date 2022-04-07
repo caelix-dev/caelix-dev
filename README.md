@@ -18,7 +18,7 @@
   
 <div>
   
-[![al-co-js's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![al-co-js's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
