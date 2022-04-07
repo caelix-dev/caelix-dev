@@ -6,13 +6,13 @@
   
 <div>
 
-![](https://github.com/al-co-js/al-co-js/blob/master/generated/overview.svg)
+[![al-co-js's Github stats](https://github.com/al-co-js/al-co-js/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
   
 </div>
   
 <div>    
   
-![](https://github.com/al-co-js/al-co-js/blob/master/generated/languages.svg)
+[![al-co-js's Top languages](https://github.com/al-co-js/al-co-js/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
 
 </div>
   
