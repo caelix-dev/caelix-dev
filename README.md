@@ -26,7 +26,6 @@
 :heart: 최신 트렌드를 사랑합니다.
   
 ---
-## Now Playing 🎧
 
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/caelix.dev)
 [![Email](https://img.shields.io/badge/-Email-282a36?l)](mailto:me@caelix.dev)
