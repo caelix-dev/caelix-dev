@@ -6,7 +6,7 @@
   
 <div>    
   
-[![caelix.dev's Github stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)]
+[![caelix.dev's Github stats](https://raw.githubusercontent.com/caelix-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only)]
 
 </div>
   
