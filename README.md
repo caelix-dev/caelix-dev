@@ -4,21 +4,15 @@
 
 <div align="center" style="display: flex; flex-direction: column;">
   
-<div>
-
-[![al-co-js's Github stats](https://github.com/al-co-js/al-co-js/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
-  
-</div>
-  
 <div>    
   
-[![al-co-js's Top languages](https://github.com/al-co-js/al-co-js/blob/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+[![caelix.dev's Github stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)]
 
 </div>
   
 <div>
   
-[![al-co-js's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![caelix.dev's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=al_co_js&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
@@ -40,11 +34,7 @@
 ---
 ## Now Playing 🎧
 
-[![Spotify](https://novatorem-djqism1xm-jaeseong-cs.vercel.app/api/spotify)](https://open.spotify.com/user/3136t5ieogpd3h6nh27h3v2e5sf4)
-
-[![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=facebook)](https://facebook.com/al.co.j.s)
-[![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/al.co.js)
-[![Gmail](https://img.shields.io/badge/-Gmail-282a36?logo=gmail)](mailto:shimjs81@gmail.com)
-[![KakaoMail](https://img.shields.io/badge/-Kakao-282a36?logo=kakao)](mailto:al.co.js@kakao.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=instagram)](https://instagram.com/caelix.dev)
+[![Email](https://img.shields.io/badge/-Email-282a36?l)](mailto:me@caelix.dev)
 
 </div>
