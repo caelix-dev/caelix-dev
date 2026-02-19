@@ -6,14 +6,8 @@
   
 <div>    
   
-[![caelix.dev's Github stats](https://raw.githubusercontent.com/caelix-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only)]
+![caelix.dev's Github stats](https://raw.githubusercontent.com/caelix-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-</div>
-  
-<div>
-  
-[![caelix.dev's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caelix-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
   
 </div>
